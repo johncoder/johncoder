@@ -1,0 +1,9 @@
+#+TITLE: johncoder
+
+You've found my GitHub profile!
+
+I heard I could put some content here with a README.md file, but wondering if it works with org.
+
+So, "Hello, world!" if this works.
+
+Check out my [[https://johncoder.github.io][personal site]].
